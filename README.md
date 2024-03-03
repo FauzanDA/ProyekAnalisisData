@@ -3,7 +3,11 @@
 ## Setup environment
 1. Open New Notebook on [Google Colab](https://colab.google/).
 2. Upload file dashboard_Proyek_Akhir.py and day.csv
-3. pip install pandas matplotlib seaborn streamlit babel
+3. pip install pandas
+4. pip install matplotlib
+5. pip install seaborn
+6. pip install streamlit
+7. pip install streamlit babel
 
 ## Run steamlit app
 1. Run `! wget -q -O - ipv4.icanhazip.com` to get the Tunnel Password
