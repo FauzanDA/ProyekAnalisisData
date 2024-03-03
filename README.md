@@ -6,7 +6,7 @@
 3. pip install pandas matplotlib seaborn streamlit babel
 
 ## Run steamlit app
-1. run `! wget -q -O - ipv4.icanhazip.com` to get the Tunnel Password
-2. run `! streamlit run dashboard_Proyek_Akhir.py & npx localtunnel --port 8501` then click the url on "your url is:" section.
-3. input the Tunnel Password in Tunnel Website the "Click to Submit"
-4. just wait till dashboard open
+1. Run `! wget -q -O - ipv4.icanhazip.com` to get the Tunnel Password
+2. Run `! streamlit run dashboard_Proyek_Akhir.py & npx localtunnel --port 8501` then click the url on "your url is:" section.
+3. Input the Tunnel Password in Tunnel Website then "Click to Submit"
+4. Just wait till dashboard open
